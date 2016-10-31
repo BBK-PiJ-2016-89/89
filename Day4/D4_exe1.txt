@@ -1,0 +1,4 @@
+In this exercise there are a class and two methods inside it. So in class UnitMatrix there is a variable of type integer Size
+which can be read in the all program, in the other word it can be read in side the class and two methods. the newSize variable
+is a local variable in the setSize method as soon as the variable execute in the method it is forgotten. The i and j variable 
+in the proceture print are locals too.
